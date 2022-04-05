@@ -1,70 +1,67 @@
-# Getting Started with Create React App
+# Quarkly export project
+<p align="center">
+  <img src="http://uploads.quarkly.io/readme/cra/readme-quarkly-and-cra.png" width="480px" alt="Create-React-App project from Quarkly">
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">Telesto</h1>
 
-## Available Scripts
+<h4 align="center">This Create-React-App project was created in <a href="https://quarkly.io/" target="_blank">Quarkly.io</a> – design tool for creating websites and web apps</h4>
 
-In the project directory, you can run:
+<p align="center">
+  <a href="https://reactjs.org/">
+    <img src="https://badgen.net/badge/React/16.13.0/cyan" 
+         alt="React version" />
+  </a>
+  <a href="https://github.com/facebook/create-react-app">
+    <img src="https://badgen.net/badge/Create React App/3.4.0/blue" 
+         alt="Create React App version" />
+  </a>
+  
+  <a href="./LICENSE">
+    <img src="https://badgen.net/badge/license/MIT/blue"
+         alt="License">
+  </a>
+</p>
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<p align="center">
+<img src="http://uploads.quarkly.io/readme/cra/how-to-start-create-react-app.gif" width="460px" alt="How to start Create-React-App">
+</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# ✨ Install
 
-### `npm test`
+## How to start
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```bash
+# Install dependencies
+$ npm i
 
-### `npm run build`
+# Start the app
+$ npm start
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# 📦 What's inside?
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [React](https://reactjs.org/)
+- [Create React App](https://github.com/facebook/create-react-app)
+- [Styled-components](https://styled-components.com/)
+- [React helmet](https://github.com/nfl/react-helmet)
+- [Atomize by Quarkly](https://atomize.quarkly.io/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+# 💡 About [Quarkly](https://quarkly.io)
+<p>
+A unique tool for webmasters, designers and developers.
+<br>
+Here you can create websites and web apps quickly, conveniently and beautifully.
+</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- [Documentation](https://quarkly.io/docs)
+- [Features](https://quarkly.io/features)
+- [Updates](https://quarkly.io/updates)
+- [GitHub](https://github.com/quarkly)
+- [Twitter](https://twitter.com/quarklyapp)
+- [Community](https://community.quarkly.io/)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# 📝 License
+Licensed under the [MIT License](./LICENSE).
