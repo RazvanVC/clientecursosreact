@@ -4,7 +4,7 @@
         "@devexpress/dx-react-core": "^3.0.2",
         "@devexpress/dx-react-grid": "^3.0.2",
         "@devexpress/dx-react-grid-material-ui": "^3.0.2",
-        "@emotion/react": "^11.8.2",
+        "@emotion/react": "^11.10.6",
         "@emotion/styled": "^11.8.1",
         "@mui/icons-material": "^5.5.1",
         "@mui/material": "^5.5.3",
