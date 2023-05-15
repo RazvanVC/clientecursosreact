@@ -6,7 +6,7 @@
         "@devexpress/dx-react-grid-material-ui": "^3.0.2",
         "@emotion/react": "^11.8.2",
         "@emotion/styled": "^11.8.1",
-        "@mui/icons-material": "^5.5.1",
+        "@mui/icons-material": "^5.11.16",
         "@mui/material": "^5.5.3",
         "@quarkly/atomize": "1.0.20",
         "@quarkly/components": "0.2.68",
